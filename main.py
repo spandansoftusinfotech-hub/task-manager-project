@@ -46,5 +46,4 @@ def add_task(task: str):
         "message": "Task Added",
         "task": task
     }
-print("Hello"
       
